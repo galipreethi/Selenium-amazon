@@ -29,4 +29,7 @@ driver.findElement(By.id("add-to-cart-button")).click();
 }
 }
 driver.findElement(By.name("proceedToRetailCheckout"")).click();
+thread.sleep(3000):
+driver.findElement(By.id("pp-dhwshN-145"));
 }
+driver.close;
